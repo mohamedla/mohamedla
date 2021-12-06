@@ -23,3 +23,7 @@ Frontend Development
 <p><a href="https://www.javascript.com"><img alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="50" style="vertical-align:top; margin:5px"/></a>
 <a href="https://www.w3schools.com/css"><img alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="50" style="vertical-align:top; margin:5px"/></a>
 <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="50" style="vertical-align:top; margin:5px"/></a></p>
+
+
+# DevOps
+<a href="https://git-scm.com/"><img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="50" style="vertical-align:top; margin:5px"/></a></p>
