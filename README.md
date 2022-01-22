@@ -16,7 +16,10 @@
 
 ### Backend Development
 <p><a href="https://www.php.net"><img alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="50" style="vertical-align:top; margin:5px"/></a> 
-<a href="https://laravel.com"><img alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" height="50" style="vertical-align:top; margin:5px"/></a> 
+<a href="https://laravel.com"><img alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" height="50" style="vertical-align:top; margin:5px"/></a>
+<a href="https://expressjs.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;background-color:white;">
+  </a>
 </p>
 
 ### Frontend Development
