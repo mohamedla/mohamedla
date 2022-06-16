@@ -1,4 +1,4 @@
-# Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" style="max-width: 100%;">
+# Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" style="max-width: 100%;">
 - 🔭 I’m currently working on GitHub projects
 - 🌱 I’m currently learning Databases,Backend,Frontend
 - Contact me mo7amed.ashraf.j@gamil.com
