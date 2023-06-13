@@ -12,6 +12,8 @@
 ### Databases
 <p><a href="https://www.mysql.com"><img alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="50" style="vertical-align:top; margin:5px"/></a> 
 <a href="https://firebase.google.com"><img alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="50" style="vertical-align:top; margin:5px"/></a> 
+<a href="https://www.microsoft.com/en-us/sql-server/">
+  <img alt="Microsoft SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" style="vertical-align:top; margin:5px"/></a> 
 </p>
 
 ### Backend Development
@@ -19,7 +21,10 @@
 <a href="https://laravel.com"><img alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" height="50" style="vertical-align:top; margin:5px"/></a>
 <a href="https://expressjs.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;background-color:white;">
-  </a>
+</a>
+<a href="https://dotnet.microsoft.comm">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".Net Core" width="40" height="40" style="max-width: 100%;background-color:white;">
+</a>
 </p>
 
 ### Frontend Development
